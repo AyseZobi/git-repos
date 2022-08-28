@@ -1,2 +1,7 @@
-ayse
-yasin
+#include "Monster.h"
+int main ()
+{
+
+// the main function
+
+}
